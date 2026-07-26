@@ -109,36 +109,6 @@ Performance is evaluated using:
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/exoplanet-detection-ml.git
-
-cd exoplanet-detection-ml
-```
-
-Install dependencies:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn imbalanced-learn jupyter
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```
-Exoplanet Detection by ML.ipynb
-```
-
----
-
 ## ▶️ Running the Project
 
 1. Download the Kepler dataset (`exoTrain.csv`).
