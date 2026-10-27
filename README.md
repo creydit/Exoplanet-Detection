@@ -1,9 +1,8 @@
 # Exoplanet Detection from Kepler Light Curves using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Detecting stars that host exoplanets from their brightness over time, using signal processing and machine learning.
 
