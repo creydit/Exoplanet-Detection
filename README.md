@@ -216,7 +216,6 @@ The original notebook used a single 80/20 split with only 7 test planets:
 6. Final model: Random Forest on FFT features
    - 6b. Logistic Regression and KNN on FFT features
 7. ROC curve comparison and summary table
-   - 7b. Extra check: single 80/20 train-test split
 8. Train on all data, save model, predict a single star
 
 ---
